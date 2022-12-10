@@ -1,2 +1,2 @@
 # quiz-program-
-a quiz program using python 
+a quiz program  python 
